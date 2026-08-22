@@ -44,14 +44,14 @@ El presente manual técnico detalla el diseño de la infraestructura de red fís
 
 ## 2. Inventario de equipos:
 
-| Equipo | Cantidad | Descripcion |
-| ------ | -------- | ----------- |
-| Switches | 8 unidades, uno para cada área | |
-| Patch Panel | 1 unidad de 48 puertos |   |
-| Dispositivos Finales | 30 computadoras de escritorio, 12 laptops y 6 servidores | |
-| Racks/Gabinetes | 1 Rack de piso para el MDF y 7 gabinetes de pared pequeños para los switches departamentales | |
-| UPS | 1 unidad de respaldo de energía centralizada para el Cuarto de Telecomunicaciones | |
-| Tomas de Red | 48 tomas de red distribuidas entre unitarias y dobles según la concentración de equipos en cada oficina. | |
+| Equipo | Cantidad | 
+| ------ | -------- | 
+| Switches | 8 unidades, uno para cada área | 
+| Patch Panel | 1 unidad de 48 puertos |   
+| Dispositivos Finales | 30 computadoras de escritorio, 12 laptops y 6 servidores | 
+| Racks/Gabinetes | 1 Rack de piso para el MDF y 7 gabinetes de pared pequeños para los switches departamentales | 
+| UPS | 1 unidad de respaldo de energía centralizada para el Cuarto de Telecomunicaciones | 
+| Tomas de Red | 48 tomas de red distribuidas entre unitarias y dobles según la concentración de equipos en cada oficina. | 
 
 ## 3. Justificación del cuarto MDF
 
